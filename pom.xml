@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>eus.agirrearri</groupId>
-	<artifactId>proba</artifactId>
+	<artifactId>loggerProba</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
